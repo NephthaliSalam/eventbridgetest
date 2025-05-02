@@ -1,6 +1,6 @@
-# 📱 Payment Widget Integration Tester (Android)
+# 📱 Widget Integration Tester (Android)
 
-This Android project is a simple WebView wrapper to help test integration of a **Payment Widget** and log any JavaScript-based UI events emitted by the widget. It's designed for fast local development and debugging.
+This Android project is a simple WebView wrapper to help test integration of a **Widget** and log any JavaScript-based UI events emitted by the widget. It's designed for fast local development and debugging.
 
 ---
 
