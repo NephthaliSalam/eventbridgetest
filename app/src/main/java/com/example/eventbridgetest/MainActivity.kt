@@ -47,7 +47,7 @@ class MainActivity : ComponentActivity() {
 
 
         webView.addJavascriptInterface(WebAppInterface(this), "PaymentAppBridge")
-        webView.loadUrl("")
+        webView.loadUrl("") // ! ADD URL HERE
     }
 }
 
